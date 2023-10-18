@@ -18,5 +18,6 @@ Ce bot Discord a été créé pour aider les futurs parents à suivre le compte 
 ## Auteur
 
 Ce bot a été créé par Malik Ben elkadi.
+![Uploading Capture d'écran 2023-10-18 132437.png…]()
 
 ![Capture d'écran](https://github.com/Malikbenelkadi/Bot_discord/Capture%20d'écran%202023-10-18%20132437.png)
